@@ -1,0 +1,8 @@
+{
+  "name": "草根出海 - 中国制造全球化外贸陪跑官网",
+  "description": "草根出海官方网站：AI+海外全社媒获客+高效成交SOP+轻本地化外贸增长陪跑平台，集成多语言、管理后台、SEO工具与流量监控分析",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
